@@ -33,4 +33,4 @@ int n = InputInt("N");
 
 PrintMN(m,n);
 Console.WriteLine();
-Console.WriteLine($"Сумма: {SummMN(m,n)}");
+Console.WriteLine($"Сумма = {SummMN(m,n)}");
